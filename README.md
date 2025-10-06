@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Sandeep Portfolio (Community)
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# sandeepui
+>>>>>>> 1aac79f984fbc8996e5aed58afd6f0cdaf72bb42
